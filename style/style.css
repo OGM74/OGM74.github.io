@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.foto{
+    display: flex;
+justify-content: start;
+margin: 80px;
+}
+body{
+    width: 80%;
+    margin:20px;
+    padding: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+.espaciado{
+    margin: 20px;
+    padding: 20px;
+}
+.portafolio{
+    display: flex;
+}
+footer{
+
+    padding: 20px;
+    margin: 50px;
+    background-color: gray;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+
+    
+
+
+
