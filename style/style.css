@@ -14,6 +14,9 @@
     justify-content: space-between;
     justify-content: space-evenly;
     margin: 80px;
+    background-color: beige;
+    border: solid;
+    
 }
 body{
     width: 100%;
@@ -22,10 +25,12 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: large;
     background-position: center;
+    border: solid;
 }
 .espaciado{
     margin: 20px;
     padding: 20px;
+    
 }
 .portafolio{
     display: flex;
@@ -39,6 +44,7 @@ footer{
 }
 .seccion1{
     background-color: gray;
+    
 }
 .seccion2{
     background-color: beige;
